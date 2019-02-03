@@ -15,3 +15,5 @@ Tested MacOS versions:
 7.0.1
 7.1.2
 7.5.3
+
+I'm not a programmer and I don't know anymore how to program, I only tested this project on Apple computers.
