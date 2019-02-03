@@ -2,7 +2,7 @@
 
 Files and folders with [GAS] are mine.
 
-Here I'm including only a corrected gerber files for PCBs printing, hex files compiled from source code, Hardfiles to use this project on 68k Macs and other personal sh*t.
+Here I'm including only corrected gerber files for PCBs printing, hex files compiled from source code for lazy guys, Hardfiles to use this project on 68k Macs and other personal sh*t.
 
 3/2/2019
 I tested this project on:
