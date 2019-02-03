@@ -1,4 +1,4 @@
-# ArdSCSino-stm32 [Personal files from MrGasS
+# ArdSCSino-stm32 [Personal files from MrGasS]
 
 Here I'm including only a corrected gerber files for PCBs printing, hex files compiled from source code, Hardfiles to use this project on 68k Macs and other personal sh*t.
 
