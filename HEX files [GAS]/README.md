@@ -1,6 +1,6 @@
 Here I host my .hex files compiled from source.
 
-Since the ArdSCSIno wants the ID defined in source code, I'll create .hex files for all the SCSI IDs.
+Since the ArdSCSIno wants the ID defined in source code, I'll create .hex files for every SCSI ID.
 
 You can flash these files with the STM's Flasher (aka Demonstrator GUI)
 
