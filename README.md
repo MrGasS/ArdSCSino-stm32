@@ -2,6 +2,8 @@
 
 (v1.0 ONLY! DON'T USE THESE FILES WITH v1.1/2.0)
 
+This fork is very confused and can contain old dirty files, be careful!
+
 Files and folders with [GAS] are mine.
 
 Here I'm including only corrected gerber files for PCBs printing, hex files compiled from source code for lazy guys, Hardfiles to use this project on 68k Macs and other personal sh*t.
