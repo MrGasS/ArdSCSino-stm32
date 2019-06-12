@@ -1,6 +1,6 @@
 # ArdSCSino-stm32 [Personal files from MrGasS]
 
-(v1.0 ONLY! DON'T USE THESE FILES WITH v1.1)
+(v1.0 ONLY! DON'T USE THESE FILES WITH v1.1/2.0)
 
 Files and folders with [GAS] are mine.
 
